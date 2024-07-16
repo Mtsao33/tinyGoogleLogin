@@ -1,6 +1,6 @@
 # tinyGoogleLogin
 
-### Test setup for Google Login flow
+### Google Login Flow 
 
 ## Setup
 
