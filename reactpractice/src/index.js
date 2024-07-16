@@ -7,7 +7,6 @@ import {
 import "./styles.css";
 import { GoogleOAuthProvider } from '@react-oauth/google';
 
-import App from "./App";
 import Display from "./Flow2.js"
 import Login from "./Flow2.js"
 import MainPage from "./Flow2.js"
@@ -24,12 +23,6 @@ const router = createBrowserRouter([
 ]);
 
 const root = createRoot(document.getElementById("root"));
-
-/* root.render(
-  <StrictMode>
-    <App />
-  </StrictMode>
-); */
 
 // root.render(
 //   <StrictMode>
