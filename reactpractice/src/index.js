@@ -41,7 +41,7 @@ const root = createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
 
-      <GoogleOAuthProvider clientId="868542149490-i2v3q2mq9ic83bq9jnvjuktqskj1bdoi.apps.googleusercontent.com">
+      <GoogleOAuthProvider clientId="194316887430-fadv7drjlo5sipco906m7c31jn9423c5.apps.googleusercontent.com">
 
 
         <Display />
