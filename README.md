@@ -1,6 +1,6 @@
 # tinyGoogleLogin
 
-### Google Login Flow 
+### Google Login Flow is in reactpractice
 
 ## Setup
 
